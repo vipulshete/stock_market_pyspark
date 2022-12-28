@@ -1,1 +1,1 @@
-stock market
+stock market details
